@@ -1,0 +1,4 @@
+npx create-next-app@latest pruebas
+todo no marcar
+npm run dev
+npm i sass

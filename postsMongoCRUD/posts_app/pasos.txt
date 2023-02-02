@@ -1,0 +1,2 @@
+npx create-next-app --example with-mongodb posts_app
+env local con la direccion de mongo en 127.0.0.1

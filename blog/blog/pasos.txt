@@ -1,0 +1,12 @@
+npx create-next-app@latest --typescript
+no a todo
+npm run dev
+borrar carpeta pages y crear carpeta app con page.tsx y cambiar next.config
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+ponemos en tailwind.config y globals.css lo que corresponde
+npm install gray-matter
+https://tailwindcomponents.com/
+npm install remark remark-html remark-gfm
+npm install -D @tailwindcss/aspect-ratio
+npm i @tailwindcss/typography
